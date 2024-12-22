@@ -1,0 +1,14 @@
+# Ignore all files
+*
+
+# Except this .gitignore file
+!.gitignore
+
+# Except directories
+!*/
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore .env files
+.env
